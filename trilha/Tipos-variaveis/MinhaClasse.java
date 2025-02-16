@@ -10,6 +10,4 @@ public class MinhaClasse {
         return "Nome completo: " + nome.concat(" ").concat(sobrenome);
     }   
 
-
-    
 }
