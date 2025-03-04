@@ -25,7 +25,7 @@ public class Contador {
 
     public static void contar(int num1, int num2) throws InvalidParameterException{
         if(num1> num2){
-            System.out.println("O segundo número deve ser maior que o primeiro!");
+            System.out.println(" segundo número deve ser maior que o primeiro!");
         }else{
             int contagem = num2 - num1;
             System.out.println("Iniciando contagem");
